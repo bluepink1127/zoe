@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>問卷調查</title>
+  <h1><b>就是份問卷，填吧。ˊ<_ˋ</b></h1>
+    
+  <input type="checkbox" name="tos" id="chk-tos">
+  <label for="chk-tos">
+  I've read and agreed with the terms of service.
+  </label>
+    
+  <ol>
+    <li>
+      <p>
+      <label for="what">Your name*</label>
+      <br> <input type="text" name="w" id="what"> </p>
+        </li>
+          <br>
+    
+    <li>
+      <label for="g">What is your gender?*</label>
+      <!-- 單選 -->
+      <p>
+      <input type="radio" name="gender" value="d0" id="gd"><label for="gd">   
+        Male</label><br>
+      <input type="radio" name="gender" value="d1" id="gdf"><label for="gdf">  
+        Female</label>
+        </p>
+          </li>
+         
+
+    <li>
+      <label for="when">Birthday*</label>
+      <p>
+      <input type="text" name="wh" id="when"> </p>
+        </li>
+  
+    <li>
+      <label for="trans">Which form of transport do you use?*<br>(Choose as   
+        many as you like)</label>
+      
+      <!-- 複選 -->
+      <p >
+ 
+      <input type="checkbox" value="c0" id="trans1"> <label for = "trans1">Walking</label><br>
+      <input type="checkbox" value="c2" id="trans2"> <label for = "trans2">Bike</label><br>
+      <input type="checkbox" value="c3" id="trans3"> <label for = "trans3">Motorcycle</label><br>
+      <input type="checkbox" value="c4" id="trans4"> <label for = "trans4">Car</label><br>
+      <input type="checkbox" value="c5" id="trans5"> <label for = "trans5">Bus</label><br>
+      <input type="checkbox" value="c6" id="trans6"> <label for = "trans6">Metro</label><br>
+      <input type="checkbox" value="c7" id="trans7"> <label for = "trans7">Train</label><br>
+      <input type="checkbox" value="c8" id="tran8s"> <label for = "trans8">Airplane</label><br>
+
+        </p>
+          </li>
+    
+    <li>
+      <label for="g">What is the highest level of education you have completed?*</label>
+      <!-- 單選 -->
+      <p>
+      <input type="radio" name="education" value="e0" id="edu1"><label for="edu1">   
+        Less than High School</label><br>
+      <input type="radio" name="education" value="e1" id="edu2"><label for="edu2">  
+        High School or equivalent</label><br>
+      <input type="radio" name="education" value="e2" id="edu3"><label for="edu3">   
+        Attended College/University</label><br>
+      <input type="radio" name="education" value="e3" id="edu4"><label for="edu4">  
+        Assoiciate degree</label><br>
+      <input type="radio" name="education" value="e4" id="edu5"><label for="edu5">   
+        Bachelor's degree</label><br>
+      <input type="radio" name="education" value="e5" id="edu6"><label for="edu6">  
+        Master's degree</label><br>
+      <input type="radio" name="education" value="e6" id="edu7"><label for="edu7">   
+        Professional degree</label><br>
+      <input type="radio" name="education" value="e7" id="edu8"><label for="edu8">  
+        Doctorate degree</label><br>
+      <input type="radio" name="education" value="e8" id="edu9"><label for="edu9">  
+        I prefer not to answer</label><br>
+        </p>
+          </li>
+    
+    <li>
+      <p>
+        <label for="hat">Which industry do you work in or are most involved with?*</label>
+        <br> <input type="text" name="w" id="what"> </p>
+          </li>
+    
+    <li>
+      <p>
+        <label for="uph">Your phone#</label>
+        <br> <input type="text" name="w" id="uph"> </p>
+      </li>
+    
+    <li>
+      <p>
+        <label for="ea">Email address</label>
+        <br> <input type="text" name="w" id="ea"> </p>
+    </li>
+    
+    <li>
+      <p>
+        <label for="pw">Personal website</label>
+        <br> <input type="text" name="pw" id="pw"> </p>
+      </li>
+    
+    </ol>
+  
+</head>
+<body>
+
+</body>
+</html>
+  

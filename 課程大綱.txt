@@ -1,0 +1,156 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <title>WEB程式基礎設計綱要</title>
+</head>
+
+<body>
+  
+   <!--大標-->
+   <h1>課程</h1>
+  
+   <!--圖片
+   <CENTER> <img src="http://www.iwantcovers.com/wp-content/uploads/2012/07/Smile.jpg" />
+    <p></CENTER>
+  -->
+  
+  <!--表格-->
+      <table width="350" border="1" bgcolor="#FFFFFF">
+
+     <tr>
+       <td align=center>學年/學期 Academic   
+       <br>Year/Semester</br></td>
+       <td colspan="3">103 學年 第 2 學期</td>
+       </tr>
+
+     <tr>
+       <td rowspan="2"  align=center>課程名稱 Course Name
+       <br>781007-001</br></td>
+       <td colspan="3">(中 Ch.)Ｗeb程式設計</td>
+       </tr>
+       <tr>
+       <td colspan="3">(英 Eng.)Web Programming</td>
+       </tr>
+
+     <tr>
+       <td align=center>授課教師 Instructor</td>
+       <td colspan="3">余能豪</td>
+       </tr>
+
+      <tr>
+       <td width="140">修別 Type of Credit</td>
+       <td width="70">群修</td>
+       <td width="70">學分數No. of Credits</td>
+       <td width="70">3.0</td>
+       </tr>
+
+      <tr>
+        <td colspan="4" align=center>備註 Note</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" >限學程同學方得修習。</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" align=center>課程目標 Course objectives</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" >本課程旨在介紹WWW的基本運作原理並以其為平台開發應用程式，包含HTML5/CSS3動態網頁製作、網頁物件模型(DOM)、JavaScript程式設計與雲端應用等。</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" align=center>課程大綱 Course Description</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" >本課程涵蓋網路平台之最新技術如HTML5, CSS3, Javascript, JSON, JQuery等，並介紹國內外網站及網路行銷活動範例，培養學生網頁應用程式之開發能力及資訊架構設計能力，最後能設計兼具功能與美感的動態網站。</td>
+        </tr>
+      <tr>
+        <td colspan="4" align=center>上課進度 Class Schedule</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" >1. Course Introduction / Git <br>
+        2. HTML5 <br>
+        3. CSS3 (I) <br>
+        4. CSS3 (II) <br>
+        5. IA - Analysis <br>
+        6. Grid system / bootstrap <br>
+        7. IA presentation <br>
+        8. Responsive design <br>
+        9. Midterm <br>
+        10. Javascript (I) / DOM <br>
+        11. Javascript (II) / JQuery <br>
+        12. Parse / JSON <br>
+        13. 校慶運動會 <br>
+        14. Heroku / Node.js <br>
+        15. Websocket <br>
+        16. Guest speaker <br>
+        17. Google Analytics <br>
+        18. Final demo<br>
+          </td>
+          </tr>
+
+      <tr>
+        <td colspan="4" align=center>課程要求/評分標準 
+          <br>Course requirements/Grading standards</br></td>
+        </tr>
+
+      <tr>
+        <td colspan="4" >課堂作業(35%) 、期中作業(20%)及期末實作成品成果展示(30%)</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" align=center>參考書目 Textbook & references
+          <br>（為維護智慧財產權，請務必使用正版書籍）</br></td>
+        </tr>
+
+      <tr>
+        <td colspan="4" >. Eric Freeman, Elisabeth Robson(2011), Head First HTML5 Programming: Building Web Apps with JavaScript, O'Reilly 
+. Crockford Douglas, JavaScript: The Good Parts, O'Reilly</td>
+        </tr>
+
+      <tr>
+        <td colspan="4" align=center>本課程附件 Course attachments
+        </tr>
+
+      <tr>
+        <td colspan="4" >N/A</td>
+        </tr>
+
+
+
+    </table>
+
+    本課程旨在介紹WWW的基本運作原理並以其為平台開發應用程式，包含HTML5/CSS3動態網頁製作、網頁物件模型(DOM)、JavaScript程式設計與雲端應用等。
+    </p>
+    <p>
+    本課程涵蓋網路平台之最新技術如HTML5, CSS3, Javascript, JSON, JQuery等，並介紹國內外網站及網路行銷活動範例，培養學生網頁應用程式之開發
+    能力及資訊架構設計能力，最後能設計兼具功能與美感的動態網站。
+    </p>
+    <p>
+    1. Course Introduction / Git <br>
+    2. HTML5 <br>
+    3. CSS3 (I) <br>
+    4. CSS3 (II) <br>
+    5. IA - Analysis <br>
+    6. Grid system / bootstrap <br>
+    7. IA presentation <br>
+    8. Responsive design <br>
+    9. Midterm <br>
+    10. Javascript (I) / DOM <br>
+    11. Javascript (II) / JQuery <br>
+    12. Parse / JSON <br>
+    13. 校慶運動會 <br>
+    14. Heroku / Node.js <br>
+    15. Websocket <br>
+    16. Guest speaker <br>
+    17. Google Analytics <br>
+    18. Final demo<br>
+    </p>
+</body>
+
+</html>

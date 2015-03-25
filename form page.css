@@ -1,0 +1,43 @@
+
+
+body {
+	background-image: url(../zoe/bg2.png);
+	font-family:"微軟正黑體",Myraid, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:rgba(252, 252, 252, 1);
+}
+
+#wrapper{
+	width: 75%;
+	margin: auto;
+	border: 10px solid rgba(243, 211, 39, 1);
+}
+
+#header{
+	background-color: rgba(243, 211, 39, 1);
+	padding: 20px;
+	color: rgba(40, 39, 31, 1);
+
+}
+
+#content{
+	background-color: rgba(40, 39, 31, 0.7);
+	padding: 20px;
+	
+}
+
+#footer{
+	text-align: center;
+	background-color: rgba(252, 252, 252, 1);
+
+		padding-top:10px; 
+		padding-left:20px; 
+		padding-right:20px; 
+		padding-bottom:10px; 
+	font-size: 15px;
+	line-height: 1.5em;
+	color:rgba(40, 39, 31, 1);
+}
+li{
+	font-size: 15px;
+}

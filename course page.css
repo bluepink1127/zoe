@@ -1,0 +1,62 @@
+/**顏色
+red:rgba(196, 44, 46, 1)
+yellow:rgba(243, 211, 39, 1)
+black:rgba(40, 39, 31, 1);
+white:rgba(252, 252, 252, 1)
+
+<img src="Images/library.jpg" width="940" height="220" alt="">
+**/
+body {
+	background-image: url(../zoe/bg2.png);
+	font-family:"微軟正黑體",Myraid, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:rgba(252, 252, 252, 1);
+}
+
+
+#wrapper{
+	width: 75%;
+	margin: auto;
+	border: 10px solid rgba(243, 211, 39, 1);
+
+}
+#header{
+	background-color: rgba(243, 211, 39, 1);
+	padding: 20px;
+
+}
+
+#content{
+	background-color: rgba(40, 39, 31, 0.7);
+	padding: 20px;
+	
+}
+
+#footer{
+	background-color: rgba(252, 252, 252, 1);
+
+		padding-top:5px; 
+		padding-left:15px; 
+		padding-right:15px; 
+		padding-bottom:5px; 
+	font-size: 12px;
+	line-height: 1.5em;
+	
+}
+
+.b{
+	padding-top: 4px;
+	color: rgba(243, 211, 39, 1);
+}
+
+.s{
+	font-size: 12px;
+	padding-bottom: 4px;
+	line-height: 1.5em;
+}
+
+
+h1{
+	font-size: 30px;
+	color: rgba(70, 65, 59, 1);
+}
